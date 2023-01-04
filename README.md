@@ -1,2 +1,2 @@
 # Python
-Python for problem solving
+Python for problem solvingfor ethical hacker.It is really essential for everyone.
